@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\notepad_open]
+@="用记事本打开(&Z)"
+
+[HKEY_CLASSES_ROOT\*\shell\notepad_open\command]
+@="notepad.exe %1"
