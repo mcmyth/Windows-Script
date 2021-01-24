@@ -6,6 +6,18 @@
 
 ---
 
+#### 如何撤销reg注册项
+
+记事本打开reg文件在每一个注册项前添加`-`符号再导入该注册项
+
+如: `[-HKEY_CLASSES_ROOT\*\shell\notepad_open]`
+
+
+
+### 目录结构
+
+---
+
 ```
 ----Windows-Script\
     |----.gitignore
