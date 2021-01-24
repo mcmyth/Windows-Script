@@ -8,7 +8,14 @@
 
 ```
 ----Windows-Script\
+    |----.gitignore
+    |----LICENSE
+    |----readme.md
     |----右键菜单\
+    |    |----从此处打开Windows Terminal\
+    |    |    |----Install.bat
+    |    |    |----Uninstall.bat
+    |    |    |----wt_64.ico
     |    |----删除天翼云盘右键菜单.bat
     |    |----添加右键用WINRAR打开.reg
     |    |----添加在此处打开cmd.reg
@@ -37,6 +44,7 @@
     |    |----WIN10查看电脑中的程序.bat
     |    |----开关IIS ASP错误反馈.bat
     |    |----查看端口占用.bat
+
 
 ```
 
