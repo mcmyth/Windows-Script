@@ -1,0 +1,4 @@
+﻿#NoTrayIcon
+#F::
+
+	Return

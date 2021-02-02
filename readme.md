@@ -20,7 +20,12 @@
 
 ```
 ----Windows-Script\
-    |----.gitignore
+    |----AutoHotkey\
+    |    |----EasyWindowDrag.ahk
+    |    |----复制路径.ahk
+    |    |----按键屏蔽.ahk
+    |    |----置顶窗口.ahk
+    |    |----调整亮度.ahk
     |----LICENSE
     |----readme.md
     |----右键菜单\
@@ -56,7 +61,5 @@
     |    |----WIN10查看电脑中的程序.bat
     |    |----开关IIS ASP错误反馈.bat
     |    |----查看端口占用.bat
-
-
 ```
 
